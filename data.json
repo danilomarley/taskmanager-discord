@@ -1,0 +1,39 @@
+{
+  "atividades": [
+    {
+      "id": "e9bfb6e0-be3c-435f-809b-dd3b902a42bc",
+      "nome": "Quest 2 Job EE",
+      "descricao": "Realizar as 3 quest de job da EE\nLink: https://mw2.wiki/posts/post/48-quests-for-1-2-and-3-classes#heading-id-2",
+      "metas": [
+        {
+          "progresso": 0,
+          "meta": 1,
+          "nome": "Trial of the Pilgrim",
+          "contribuidores": {},
+          "ajudantes": {}
+        },
+        {
+          "progresso": 0,
+          "meta": 1,
+          "nome": "Testimony of Life",
+          "contribuidores": {},
+          "ajudantes": {}
+        },
+        {
+          "progresso": 0,
+          "meta": 1,
+          "nome": "Test of the Healer",
+          "contribuidores": {},
+          "ajudantes": {}
+        }
+      ],
+      "messageIds": [
+        "1394295362034077796",
+        "1394295364965892126",
+        "1394295366861455492",
+        "1394295368426197062"
+      ],
+      "channelId": "1386446891230822531"
+    }
+  ]
+}

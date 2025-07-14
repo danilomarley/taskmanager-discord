@@ -1,0 +1,13 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.x",
+    "uuid": "^9.x",
+    "dotenv": "^16.x"
+  }
+}

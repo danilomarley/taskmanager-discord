@@ -1,0 +1,54 @@
+{
+  "atividades": [
+    {
+      "nome": "Farm Solo/Duo Recipes > 75(SE) + 76(Spoil)",
+      "descricao": "SPORE ZOMBIE - ESPORE DE OREN (LA PARA DENTRO DO MAPA) https://mw2.wiki/npc/20562-spore-zombie/lu4",
+      "metas": [
+        {
+          "nome": "Compositor Armor Recipe",
+          "meta": 2,
+          "progresso": 2,
+          "messageId": "1392886421521563659",
+          "contribuicoes": {
+            "marceloamorim": {
+              "progresso": 0,
+              "ajuda": 1
+            },
+            "troia8600": {
+              "progresso": 1,
+              "ajuda": 0
+            },
+            "zoddy4282": {
+              "progresso": 1,
+              "ajuda": 0
+            }
+          }
+        },
+        {
+          "nome": "Fisted Blade Recipe",
+          "meta": 3,
+          "progresso": 1,
+          "messageId": "1392886423522377961",
+          "contribuicoes": {
+            "marceloamorim": {
+              "progresso": 0,
+              "ajuda": 1
+            },
+            "netinjc": {
+              "progresso": 1,
+              "ajuda": 0
+            }
+          }
+        },
+        {
+          "nome": "Key Fisted Blade",
+          "meta": 2,
+          "progresso": 0,
+          "messageId": "1392886426647138525",
+          "contribuicoes": {}
+        }
+      ],
+      "messageId": null
+    }
+  ]
+}
