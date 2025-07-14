@@ -2,6 +2,16 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 
+// index.js
+const express = require('express');
+const app = express();
+
+// Isso serve apenas para manter o Render feliz
+app.get('/', (req, res) => res.send('Bot está rodando!'));
+app.listen(process.env.PORT || 3000, () => {
+  console.log('Servidor web falso rodando');
+});
+
 const { Client, Collection, GatewayIntentBits, Events } = require('discord.js');
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages] });
 
